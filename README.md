@@ -35,7 +35,7 @@ cd frontend
 npm install
 npm run dev
 
-cd ../backend
+cd ../backend1
 npm install
 node server.js
 
