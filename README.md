@@ -16,7 +16,7 @@ An interactive, real-time multiplayer chess game with live gameplay synchronizat
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 **Frontend**: React.js, TypeScript, Tailwind CSS  
 **Backend**: Node.js, WebSocket (ws)  
